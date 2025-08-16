@@ -1,0 +1,239 @@
+{
+  "title": "Navigation (#sidebar)",
+  "url": "",
+  "level": -1,
+  "order": 0,
+  "children": [
+    {
+      "title": "Overview",
+      "url": "https://docs.anthropic.com/en/docs/claude-code/overview",
+      "level": 1,
+      "order": 0,
+      "children": []
+    },
+    {
+      "title": "Quickstart",
+      "url": "https://docs.anthropic.com/en/docs/claude-code/quickstart",
+      "level": 1,
+      "order": 1,
+      "children": []
+    },
+    {
+      "title": "Common workflows",
+      "url": "https://docs.anthropic.com/en/docs/claude-code/common-workflows",
+      "level": 1,
+      "order": 2,
+      "children": []
+    },
+    {
+      "title": "Claude Code SDK",
+      "url": "https://docs.anthropic.com/en/docs/claude-code/sdk",
+      "level": 1,
+      "order": 3,
+      "children": []
+    },
+    {
+      "title": "Subagents",
+      "url": "https://docs.anthropic.com/en/docs/claude-code/sub-agents",
+      "level": 1,
+      "order": 4,
+      "children": []
+    },
+    {
+      "title": "Output styles",
+      "url": "https://docs.anthropic.com/en/docs/claude-code/output-styles",
+      "level": 1,
+      "order": 5,
+      "children": []
+    },
+    {
+      "title": "Claude Code hooks",
+      "url": "https://docs.anthropic.com/en/docs/claude-code/hooks-guide",
+      "level": 1,
+      "order": 6,
+      "children": []
+    },
+    {
+      "title": "GitHub Actions",
+      "url": "https://docs.anthropic.com/en/docs/claude-code/github-actions",
+      "level": 1,
+      "order": 7,
+      "children": []
+    },
+    {
+      "title": "Model Context Protocol (MCP)",
+      "url": "https://docs.anthropic.com/en/docs/claude-code/mcp",
+      "level": 1,
+      "order": 8,
+      "children": []
+    },
+    {
+      "title": "Troubleshooting",
+      "url": "https://docs.anthropic.com/en/docs/claude-code/troubleshooting",
+      "level": 1,
+      "order": 9,
+      "children": []
+    },
+    {
+      "title": "Overview",
+      "url": "https://docs.anthropic.com/en/docs/claude-code/third-party-integrations",
+      "level": 1,
+      "order": 10,
+      "children": []
+    },
+    {
+      "title": "Amazon Bedrock",
+      "url": "https://docs.anthropic.com/en/docs/claude-code/amazon-bedrock",
+      "level": 1,
+      "order": 11,
+      "children": []
+    },
+    {
+      "title": "Google Vertex AI",
+      "url": "https://docs.anthropic.com/en/docs/claude-code/google-vertex-ai",
+      "level": 1,
+      "order": 12,
+      "children": []
+    },
+    {
+      "title": "Corporate proxy",
+      "url": "https://docs.anthropic.com/en/docs/claude-code/corporate-proxy",
+      "level": 1,
+      "order": 13,
+      "children": []
+    },
+    {
+      "title": "LLM gateway",
+      "url": "https://docs.anthropic.com/en/docs/claude-code/llm-gateway",
+      "level": 1,
+      "order": 14,
+      "children": []
+    },
+    {
+      "title": "Development containers",
+      "url": "https://docs.anthropic.com/en/docs/claude-code/devcontainer",
+      "level": 1,
+      "order": 15,
+      "children": []
+    },
+    {
+      "title": "Advanced installation",
+      "url": "https://docs.anthropic.com/en/docs/claude-code/setup",
+      "level": 1,
+      "order": 16,
+      "children": []
+    },
+    {
+      "title": "Identity and Access Management",
+      "url": "https://docs.anthropic.com/en/docs/claude-code/iam",
+      "level": 1,
+      "order": 17,
+      "children": []
+    },
+    {
+      "title": "Security",
+      "url": "https://docs.anthropic.com/en/docs/claude-code/security",
+      "level": 1,
+      "order": 18,
+      "children": []
+    },
+    {
+      "title": "Data usage",
+      "url": "https://docs.anthropic.com/en/docs/claude-code/data-usage",
+      "level": 1,
+      "order": 19,
+      "children": []
+    },
+    {
+      "title": "Monitoring",
+      "url": "https://docs.anthropic.com/en/docs/claude-code/monitoring-usage",
+      "level": 1,
+      "order": 20,
+      "children": []
+    },
+    {
+      "title": "Costs",
+      "url": "https://docs.anthropic.com/en/docs/claude-code/costs",
+      "level": 1,
+      "order": 21,
+      "children": []
+    },
+    {
+      "title": "Analytics",
+      "url": "https://docs.anthropic.com/en/docs/claude-code/analytics",
+      "level": 1,
+      "order": 22,
+      "children": []
+    },
+    {
+      "title": "Settings",
+      "url": "https://docs.anthropic.com/en/docs/claude-code/settings",
+      "level": 1,
+      "order": 23,
+      "children": []
+    },
+    {
+      "title": "Add Claude Code to your IDE",
+      "url": "https://docs.anthropic.com/en/docs/claude-code/ide-integrations",
+      "level": 1,
+      "order": 24,
+      "children": []
+    },
+    {
+      "title": "Terminal configuration",
+      "url": "https://docs.anthropic.com/en/docs/claude-code/terminal-config",
+      "level": 1,
+      "order": 25,
+      "children": []
+    },
+    {
+      "title": "Memory management",
+      "url": "https://docs.anthropic.com/en/docs/claude-code/memory",
+      "level": 1,
+      "order": 26,
+      "children": []
+    },
+    {
+      "title": "Status line configuration",
+      "url": "https://docs.anthropic.com/en/docs/claude-code/statusline",
+      "level": 1,
+      "order": 27,
+      "children": []
+    },
+    {
+      "title": "CLI reference",
+      "url": "https://docs.anthropic.com/en/docs/claude-code/cli-reference",
+      "level": 1,
+      "order": 28,
+      "children": []
+    },
+    {
+      "title": "Interactive mode",
+      "url": "https://docs.anthropic.com/en/docs/claude-code/interactive-mode",
+      "level": 1,
+      "order": 29,
+      "children": []
+    },
+    {
+      "title": "Slash commands",
+      "url": "https://docs.anthropic.com/en/docs/claude-code/slash-commands",
+      "level": 1,
+      "order": 30,
+      "children": []
+    },
+    {
+      "title": "Hooks reference",
+      "url": "https://docs.anthropic.com/en/docs/claude-code/hooks",
+      "level": 1,
+      "order": 31,
+      "children": []
+    },
+    {
+      "title": "Legal and compliance",
+      "url": "https://docs.anthropic.com/en/docs/claude-code/legal-and-compliance",
+      "level": 1,
+      "order": 32,
+      "children": []
+    }
+  ]
+}
