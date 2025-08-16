@@ -1,0 +1,1 @@
+{"tool_input": {"file_path": "test_with_hallucinations.py"}, "hook_event_name": "PostToolUse", "tool_name": "Write"}
